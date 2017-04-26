@@ -12,6 +12,7 @@
     "babel-loader": "^7.0.0",
     "babel-preset-env": "^1.4.0",
     "css-loader": "^0.28.0",
+    "extract-text-webpack-plugin": "^2.1.0",
     "less": "^2.7.2",
     "less-loader": "^4.0.3",
     "style-loader": "^0.16.1",
